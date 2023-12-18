@@ -1,0 +1,11 @@
+{
+   "PATO": "http://purl.obolibrary.org/obo/PATO_",
+   "biolink": "https://w3id.org/biolink/",
+   "example": "https://example.org/",
+   "linkml": "https://w3id.org/linkml/",
+   "schema": "http://schema.org/",
+   "test_linkml_cookiecutter": "https://w3id.org/yibeichan/test-linkml-cookiecutter/",
+   "NamedThing": {
+      "@id": "schema:Thing"
+   }
+}

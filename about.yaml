@@ -1,0 +1,7 @@
+---
+name: test_linkml_cookiecutter
+author: YC <yibei@mit.edu>
+description: test linkml cookiecutter
+source_schema_path: src/test_linkml_cookiecutter/schema/test_linkml_cookiecutter.yaml
+google_sheet_id: 1wVoaiFg47aT9YWNeRfTZ8tYHN8s8PAuDx5i2HUcDpvQ
+google_sheet_tabs: personinfo enums
